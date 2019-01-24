@@ -85,14 +85,14 @@ git clone https://github.com/parksurk/drl_value-based_methods.git
 ```
 2. Create (and activate) a new environment with Python 3.6.
     * Linux or Mac:
-```
-conda create --name drlnd python=3.6
-```
+    ```
+    conda create --name drlnd python=3.6
+    ```
     * Windows:
-```
-conda create --name drlnd python=3.6
-activate drlnd
-```
+    ```
+    conda create --name drlnd python=3.6
+    activate drlnd
+    ```
 3. Follow the instructions in this repository to perform a minimal install of OpenAI gym. (Skip if you done already)
     * Next, install the classic control environment group by following the instructions here.
     * Then, install the box2d environment group by following the instructions here.
