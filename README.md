@@ -15,6 +15,15 @@ We will introduce to solve simple navigation problem by Deep Reinforcement Learn
 #### Technical things
 * Read about Deep Learnming with PyTorch : https://github.com/udacity/DL_PyTorch
 
+### Optional Reference
+
+#### Theoretical things
+* refer to [Antonio Park's blog about Introduction to DRL](https://parksurk.github.io/drlnd_1_introduction_to_drl-post/).
+* refer to [Antonio Park's blog about Dynamic Programming](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-3_dynamic_programming-post/).
+* refer to [Antonio Park's blog about Monte Calro Methods](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-4_monte_calro_methods-post/).
+* refer to [Antonio Park's blog about Temporal-Difference methods](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-5_temporal_difference_methods-post/).
+* refer to [Antonio Park's blog about DRL Value-based method](https://parksurk.github.io/deep/reinfocement/learning/drlnd_2-4_value_based_methods-post/).
+
 ### Project Details
 For this project, we will train an agent to navigate (and collect bananas!) in a large, square world.
 
